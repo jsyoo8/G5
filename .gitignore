@@ -33,3 +33,4 @@
 
 # ETC
 build/
+.vscode/
